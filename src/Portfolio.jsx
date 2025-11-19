@@ -203,8 +203,7 @@ export default function Portfolio() {
       <section id="contact" className="contact">
         <h2 className="section-title">Contacto</h2>
         <p className="contact-text">
-          Si te interesan colaboraciones, prácticas o proyectos donde pueda
-          aportar como frontend, puedes contactarme aquí:
+          Puedes contactarme aquí:
         </p>
         <ul className="contact-list">
           <li>
