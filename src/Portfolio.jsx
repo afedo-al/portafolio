@@ -119,7 +119,7 @@ export default function Portfolio() {
           <h1 className="hero-title">
             Hola, soy <span className="accent">Alfredo J. Cruz Miss</span>
             <br />
-            construyo experiencias web futuristas.
+            ME GUSTA SEGUIR APRENDIENDO.
           </h1>
           <p className="hero-subtitle">
             Desarrollador Frontend que crea interfaces limpias, dinámicas y
