@@ -122,8 +122,8 @@ export default function Portfolio() {
             ME GUSTA SEGUIR APRENDIENDO.
           </h1>
           <p className="hero-subtitle">
-            Desarrollador Frontend que crea interfaces limpias, dinámicas y
-            modernas usando React, JavaScript y CSS. Combino diseño y
+            Frontend que crea interfaces limpias, dinámicas
+            usando React, JavaScript y CSS. Combino diseño y
             tecnología para lograr experiencias web atractivas.
           </p>
 
